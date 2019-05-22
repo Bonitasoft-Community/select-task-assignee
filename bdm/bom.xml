@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<businessObjectModel modelVersion="1.0" productVersion="7.8.3">
+    <businessObjects>
+        <businessObject qualifiedName="com.company.model.TaskAssignee">
+            <fields>
+                <field type="LONG" length="255" name="firstStepUserId" nullable="true" collection="false"/>
+            </fields>
+            <uniqueConstraints/>
+            <queries/>
+            <indexes/>
+        </businessObject>
+    </businessObjects>
+</businessObjectModel>
